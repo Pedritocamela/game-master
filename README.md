@@ -38,7 +38,7 @@ DB_PORT=3306
 
 ---
 
-## ▶Ejecutar
+## Ejecutar
 
 ```bash
 uvicorn app.main:app --reload
